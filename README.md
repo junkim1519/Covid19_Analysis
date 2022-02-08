@@ -1,4 +1,4 @@
-# COVID-19 death rate analysis
+# COVID-19 death analysis
 
 This is a data science project that examines the factors that cause a COVID-19 case to result in a death.  The dataset was taken from the CDC and can be downloaded here: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
 
