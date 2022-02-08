@@ -1,10 +1,11 @@
 # COVID-19 death analysis
 
-This is a data science project that examines the factors that cause a COVID-19 case to result in a death.  The dataset was taken from the CDC and can be downloaded here: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
+This is a data science project that examines the factors that cause a COVID-19 case to result in a death.  The dataset is a sample taken from the CDC: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
 
-**Covid19_Analysis.ipynb** is the Jupyter Notebook file
-**test.csv** is the test dataset
-**train.csv** is the training dataset
+- **Covid19_Analysis.ipynb** is the Jupyter Notebook file
+- **test.csv** is the test dataset
+- **train.csv** is the training dataset
+
 
 This project demonstrates:
 - Data exploration and wrangling
