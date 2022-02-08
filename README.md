@@ -11,7 +11,7 @@ This project demonstrates:
 - Data exploration and wrangling
 - Techniques to impute missing data
 - Encoding categorical variables and standardizing numerical variables
-- Building a classification model using sci-kit learn
+- Building a classification model using scikit learn
 - Optimizing model hyperparameters
 - Evaluating model performance using accuracy, ROC, and AUC
 - Interpretation of significant features in the model
